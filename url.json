@@ -1,5 +1,12 @@
-{
-    "webview_url": "https://tv11.lk21official.cc",
-    "website_name": "LK21",
-    "version": "1.0"
-}
+[
+   {
+      "webview_url":"https://tv11.lk21official.cc",
+      "website_name":"Film",
+      "version":"1.0"
+   },
+   {
+      "webview_url":"https://v2.samehadaku.how",
+      "website_name":"Anime",
+      "version":"1.0"
+   }
+]
