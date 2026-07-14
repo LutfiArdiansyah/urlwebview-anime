@@ -1,1 +1,28 @@
 
+[
+   {
+      "webview_url":"https://www.kct.co.id",
+      "website_name":"Website",
+      "version":"1.0"
+   },
+   {
+      "webview_url":"https://www.koorva.com",
+      "website_name":"Koorva",
+      "version":"1.0"
+   },
+   {
+      "webview_url":"https://kwork.koorva.com",
+      "website_name":"KWork",
+      "version":"1.0"
+   },
+   {
+      "webview_url":"http://webmail.kct.co.id",
+      "website_name":"Email",
+      "version":"1.0"
+   },
+   {
+      "webview_url":"https://git.kct.co.id",
+      "website_name":"GitLab",
+      "version":"1.0"
+   }
+]
