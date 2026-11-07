@@ -2,21 +2,68 @@
    {
       "webview_url":"https://tv12.lk21official.cc",
       "website_name":"Film",
-      "version":"1.0"
+      "version":"1.0",
+      "allowed":[
+         "*.lk21official.cc",
+         "accounts.google.com",
+         "accounts.google.co.id",
+         "accounts.youtube.com",
+         "gds.google.com",
+         "challenges.cloudflare.com",
+         "www.google.com/recaptcha/",
+         "recaptcha.net",
+         "*.recaptcha.net",
+         "*.hcaptcha.com"
+      ]
    },
    {
-      "webview_url":"https://aubergedelavenir.com" ,
+      "webview_url":"https://aubergedelavenir.com",
       "website_name":"Film 2",
-      "version":"1.0"
+      "version":"1.0",
+      "allowed":[
+         "accounts.google.com",
+         "accounts.google.co.id",
+         "accounts.youtube.com",
+         "gds.google.com",
+         "challenges.cloudflare.com",
+         "www.google.com/recaptcha/",
+         "recaptcha.net",
+         "*.recaptcha.net",
+         "*.hcaptcha.com"
+      ]
    },
    {
       "webview_url":"https://new1.pusatfilm21info.com",
       "website_name":"Film 3",
-      "version":"1.0"
+      "version":"1.0",
+      "allowed":[
+         "*.pusatfilm21info.com",
+         "accounts.google.com",
+         "accounts.google.co.id",
+         "accounts.youtube.com",
+         "gds.google.com",
+         "challenges.cloudflare.com",
+         "www.google.com/recaptcha/",
+         "recaptcha.net",
+         "*.recaptcha.net",
+         "*.hcaptcha.com"
+      ]
    },
    {
       "webview_url":"https://v2.samehadaku.how",
       "website_name":"Anime",
-      "version":"1.0"
+      "version":"1.0",
+      "allowed":[
+         "*.samehadaku.how",
+         "accounts.google.com",
+         "accounts.google.co.id",
+         "accounts.youtube.com",
+         "gds.google.com",
+         "challenges.cloudflare.com",
+         "www.google.com/recaptcha/",
+         "recaptcha.net",
+         "*.recaptcha.net",
+         "*.hcaptcha.com"
+      ]
    }
 ]
