@@ -17,7 +17,7 @@
       ]
    },
    {
-      "webview_url":"https://aubergedelavenir.com",
+      "webview_url":"https://arringtonaccuracy.com",
       "website_name":"Film 2",
       "version":"1.0",
       "allowed":[
@@ -63,7 +63,8 @@
          "www.google.com/recaptcha/",
          "recaptcha.net",
          "*.recaptcha.net",
-         "*.hcaptcha.com"
+         "*.hcaptcha.com",
+         "*.gofile.io"
       ]
    }
 ]
